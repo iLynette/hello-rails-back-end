@@ -1,24 +1,68 @@
-# README
+# Rails-back-end app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> A simple rails API project that displays randomly selected greetings.
+> [React Repo]()
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby
+- Ruby on Rails
+- PostgreSQL
 
-* System dependencies
+## Getting Started
 
-* Configuration
+- [Install Ruby](https://www.ruby-lang.org/en/documentation/installation/) on your local machine 
+- [Install Ruby on Rails](https://guides.rubyonrails.org/v5.1/getting_started.html)
+- Clone [this repository](https://github.com/iLynette/hello-rails-back-end)
+  ```
+  git clone https://github.com/iLynette/hello-rails-back-end.git
+  ```
+- To get started, In the root directory run:
+  ```
+  gem install bundler
+  ```
+  Then run:
+  ```
+  bundle install
+  ```
+  To start the server run: 
 
-* Database creation
+  ```
+  rails s
+  ```
+  Open the browser with `localhost:3000`
 
-* Database initialization
+  
+## After installing bundle
 
-* How to run the test suite
+Please run the following commands `rails db:create` `rails db:migrate` `rails s`
 
-* Services (job queues, cache servers, search engines, etc.)
+### To track linter errors locally follow these steps:  
 
-* Deployment instructions
+Track linter errors run:
+```
+rubocop
+```
 
-* ...
+## Author
+
+:woman: **Lynette Aluoch Acholah**
+
+- GitHub: [@iLynette](https://github.com/iLynette)
+- Twitter: [@acholah_lynette](https://twitter.com/acholah_lynette)
+- LinkedIn: [lynette-acholah](https://linkedin.com/in/lynette-acholah)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/iLynette/hello-rails-back-end/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Thanks to me.
+
