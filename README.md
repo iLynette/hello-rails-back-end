@@ -1,7 +1,7 @@
 # Rails-back-end app
 
 > A simple rails API project that displays randomly selected greetings.
-> [React Repo]()
+> [React Repo](https://github.com/iLynette/hello-react-front-end)
 
 ## Built With
 
